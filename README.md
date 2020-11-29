@@ -1,4 +1,4 @@
-# ridhobot
+# Shiro-bot
 BOT WHATSAPP HP RIDHO SETIAWAN
 
 ### Alat dan Bahan
